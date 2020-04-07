@@ -1,0 +1,21 @@
+{
+"colors": {"snake": {"head": [0, 50, 129],
+                     "main": [0, 102, 135],
+                     "second": [255, 255, 102]},
+           "dead": {"head": [150, 0, 0],
+                    "main": [200, 0, 0],
+                    "second": [120, 0, 0]},
+           "cherry": [0, 200, 0],
+           "background": [0, 0, 0],
+           "text": [255, 255, 255],
+           "buttons": [165, 193, 225],
+           "buttonsHover": [165, 215, 225]},
+
+"resolutions": {"small": [200, 200],
+                "average": [500, 500],
+                "big": [1200, 800],
+                "fullHD": [1920, 1080]},
+
+"screenTypes": {"closed": true,
+                "open": false}
+}
